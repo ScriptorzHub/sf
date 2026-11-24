@@ -1,6 +1,10 @@
 {
   "links": {
-    "sfplus": "http://192.168.100.74:8766/",
-    "sfgo": ""
+"sfplus": "http://192.168.100.74:8766/",
+"sfgo": ""
+  },
+"security": {
+"payload": "eyJleHBpcmVzQXQiOjE4MDMzMDkwMDksImlzc3VlZEF0IjoxNzk1NTMzMDA5LCJsaW5rcyI6eyJzZmdvIjoiIiwic2ZwbHVzIjoiaHR0cDovLzE5Mi4xNjguMTAwLjc0Ojg3NjYvIn0sInNjaGVtYSI6MSwidmVyc2lvbiI6MX0=",
+"signature": "MEQCICV4btu//NkNj7BTZRtgERqCkoL5cudvHz8+16x6IAQyAiB8gUS8mdAXw0cDvUNgygMZWAjgN0hmfAnqnY+1aAR4FA=="
   }
 }
