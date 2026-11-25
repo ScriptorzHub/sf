@@ -4,7 +4,7 @@
 "sfgo": ""
   },
 "security": {
-"payload": "eyJleHBpcmVzQXQiOjE4MDMzMDkwMDksImlzc3VlZEF0IjoxNzk1NTMzMDA5LCJsaW5rcyI6eyJzZmdvIjoiIiwic2ZwbHVzIjoiaHR0cDovLzE5Mi4xNjguMTAwLjc0Ojg3NjYvIn0sInNjaGVtYSI6MSwidmVyc2lvbiI6MX0=",
-"signature": "MEQCICV4btu//NkNj7BTZRtgERqCkoL5cudvHz8+16x6IAQyAiB8gUS8mdAXw0cDvUNgygMZWAjgN0hmfAnqnY+1aAR4FA=="
+"payload": "eyJleHBpcmVzQXQiOjE4MDMzODY5OTIsImlzc3VlZEF0IjoxNzk1NjEwOTkyLCJsaW5rcyI6eyJzZmdvIjoiIiwic2ZwbHVzIjoiaHR0cHM6Ly9waGNoZWF0ei50b3AvIn0sInNjaGVtYSI6MSwidmVyc2lvbiI6Mn0=",
+"signature": "MEUCIE4KmDwPrv+1g9A0f8n5Vz4NkJrzBfEZKWg/AouopJxhAiEA6TzV0h0C5yjTEQPVO1axsJwQD3PEBgmcPG1KPQEOOmY="
   }
 }
